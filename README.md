@@ -48,3 +48,6 @@ The primary goal is to empower executives and regional managers with actionable 
 *   **Location Strategy:** 'Downtown' locations are the highest revenue generators. But Airport locations generate the maximum average revenue.  Expansion in Airport location might yield the best ROI.
 *   **Inventory Optimization:** The scatter plot reveals several items in the 'High Risk' and 'Out of Stock' categories. By utilizing the 'days of supply' metric, supply chain managers can proactively reorder stock for specific stores (e.g., those dipping below 1-2 weeks of supply) to prevent stockouts of high-velocity items, thereby protecting revenue streams.
 *   **Trend Analysis:** The dip in Q4 sales (October/November) requires further investigation to understand the cause and develop strategies to mitigate it in future years.
+
+
+###screenshots: https://github.com/VAIBBHAV-VOHRAA/mexican-toy-store-dashbaord/blob/main/MTSR.PAGE1.png
