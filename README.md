@@ -4,6 +4,16 @@
 ## Purpose
 This Power BI project provides a comprehensive executive overview of performance and inventory metrics for a fictional chain of Mexican toy stores (Maven Toys). The dashboard is designed to help stakeholders monitor key financial indicators—such as revenue, profit, and profit margins—while also identifying top-selling products and tracking monthly sales trends. Furthermore, it offers deep insights into inventory management, highlighting stores with high or medium out-of-stock risks to ensure optimal stock levels and prevent lost sales.
 
+## Dashboard Previews
+
+### Executive Overview - Performance Dashboard
+![Executive Overview Dashboard](https://raw.githubusercontent.com/VAIBBHAV-VOHRAA/mexican-toy-store-dashbaord/main/MTSR.PAGE1.png)
+
+### Inventory & Store Performance
+![Inventory Performance Dashboard](https://raw.githubusercontent.com/VAIBBHAV-VOHRAA/mexican-toy-store-dashbaord/main/MTSR.PAGE2.png)
+
+## Tech Stack
+
 ## Tech Stack
 *   **SQL:** Data extraction and preliminary exploration .
 *   **Power BI Desktop:** Dashboard creation, data visualization, and reporting.
@@ -50,5 +60,3 @@ The primary goal is to empower executives and regional managers with actionable 
 *   **Trend Analysis:** The dip in Q4 sales (October/November) requires further investigation to understand the cause and develop strategies to mitigate it in future years.
 
 
-### screenshots
-dashboard preview:  (https://github.com/VAIBBHAV-VOHRAA/mexican-toy-store-dashbaord/blob/main/MTSR.PAGE1.png)
