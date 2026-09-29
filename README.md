@@ -51,4 +51,4 @@ The primary goal is to empower executives and regional managers with actionable 
 
 
 ### screenshots
-this is what the dashboard looks like [https://github.com/VAIBBHAV-VOHRAA/mexican-toy-store-dashbaord/blob/main/MTSR.PAGE1.png]
+dashboard preview:  (https://github.com/VAIBBHAV-VOHRAA/mexican-toy-store-dashbaord/blob/main/MTSR.PAGE1.png)
