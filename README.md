@@ -50,4 +50,5 @@ The primary goal is to empower executives and regional managers with actionable 
 *   **Trend Analysis:** The dip in Q4 sales (October/November) requires further investigation to understand the cause and develop strategies to mitigate it in future years.
 
 
-###screenshots: https://github.com/VAIBBHAV-VOHRAA/mexican-toy-store-dashbaord/blob/main/MTSR.PAGE1.png
+### screenshots
+this is what the dashboard looks like [https://github.com/VAIBBHAV-VOHRAA/mexican-toy-store-dashbaord/blob/main/MTSR.PAGE1.png]
